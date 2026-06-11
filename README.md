@@ -1,4 +1,4 @@
-# CART Decision Tree Classification Model
+# Decision Tree Classification Model
 
 ## Description
 
